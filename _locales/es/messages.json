@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Zaption - Interactúa y aprende con vídeo",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "shortAppName": {
+    "message": "Zaption",
+    "description": "The short name of the application, displayed in the user's Chrome app dashboard."
+  },
+  "appDescription": {
+    "message": "Convierta los vídeos en línea en experiencias de aprendizaje interactivo, que interactúa con los alumnos y realiza el seguimiento del proceso.",
+    "description": "The description of the application, displayed in the web store."
+  }
+}

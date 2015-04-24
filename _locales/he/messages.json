@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Zaption - אינטראקציה ולמידה באמצעות וידאו",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "shortAppName": {
+    "message": "Zaption",
+    "description": "The short name of the application, displayed in the user's Chrome app dashboard."
+  },
+  "appDescription": {
+    "message": "הפכו קבצי וידאו מקוונים לחוויות למידה אינטראקטיביות שמאתגרות את המשתמשים ועוקבות אחר התקדמות.",
+    "description": "The description of the application, displayed in the web store."
+  }
+}
